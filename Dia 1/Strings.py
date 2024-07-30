@@ -1,0 +1,6 @@
+print('150 + 50')
+print("Hola" + " " + "Josue")
+print("Me llamo \"Josue\"")
+print("Esta es una linea\nY esta es otra linea")
+print("\tEsta linea usa tabulación")
+print("Este signo \\ es una barra invertida")

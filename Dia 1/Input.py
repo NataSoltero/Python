@@ -1,0 +1,7 @@
+print("Tell me your name: ")
+print("Tell me your lastname: ")
+input("Tell me your name: ")
+input("Tell me your lastname: ")
+print(input("Tell me your name: "))
+print("Your name is" + input("Tell me your name: "))
+print("Your name is" + input("Tell me your name: ") + " " + input("Tell me your lastname: "))
